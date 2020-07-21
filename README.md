@@ -1,6 +1,6 @@
 # netflixclone
 
-Trying to clone netflix
+Trying to clone firebase video uploderApp
 
 ## Getting Started
 
